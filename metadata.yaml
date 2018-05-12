@@ -12,6 +12,8 @@ creator:
     gutenberg_agent_id: '40465'
     url: http://www.gutenberg.org/2009/agents/40465
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/40190#Science-and-Practice-in-Farm-Cultivation
 gutenberg_issued: '2012-07-10'
 gutenberg_type: Text
 identifiers:
